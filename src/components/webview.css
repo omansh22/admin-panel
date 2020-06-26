@@ -1,0 +1,40 @@
+.reco{
+    border: 1px solid gray  ;
+    background-color: #d4e7ff;
+    
+}
+ .inf{
+    border: 1px solid gray  ;
+    background-color: #b6f5ca;
+ }
+
+ .dea{
+    border: 1px solid gray  ;
+    background-color: #eaeeaf;
+    
+ }
+
+ .mid{
+     margin-bottom: 20px;
+     margin-top: 20px;
+     
+ }
+
+ .main{
+     background-color: #DAE0E2;
+ }
+
+ .datatab{
+     background-color: white;
+     border-radius: 10px;
+     margin: 20px;
+     padding: 10px;
+     box-shadow: 0px 0px 29px -3px rgba(0,0,0,0.75);
+ }
+ #reg{
+     padding-left: 10px;
+     padding-top: 10px;
+    
+ }
+
+ 
